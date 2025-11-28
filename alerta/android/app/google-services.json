@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460843315926",
+    "project_id": "sentinel-b5582",
+    "storage_bucket": "sentinel-b5582.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460843315926:android:bef8c7ae685f3d46d08f77",
+        "android_client_info": {
+          "package_name": "com.example.alerta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVh0KcoRxZCS0khqmgxUzB1X0UHzjehpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -49,7 +49,7 @@ CareLink provides a quick and reliable way to alert trusted contacts during emer
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/carelink.git
+git clone https://github.karab-o/carelink.git
 cd carelink
 ```
 
@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - [Your GitHub Profile](https://github.com/yourusername)
+- **Name** - [karab-o](https://github.com/karab-o)
 
 ## 🙏 Acknowledgments
 

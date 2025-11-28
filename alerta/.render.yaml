@@ -1,7 +1,10 @@
 services:
   - type: static_site
-    name: flutter-web-deploy
-    env: static
-    buildCommand: "flutter build web"
-    publishPath: "build/web"
-    branch: main
+    name: carelink-web
+    buildCommand: |
+      git clone https://github.com/flutter/flutter.git -b stable
+      export PATH="$PATH:./flutter/bin"
+      flutter config --enable-web
+      flutter pub get
+      flutter build web
+    publishPath: build/web

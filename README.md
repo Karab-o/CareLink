@@ -252,7 +252,8 @@ The app currently uses **ngrok** to create a public URL for the local backend se
 
 ## 📱 Screenshots
 
-[Add screenshots of your app here]
+<img width="1329" height="714" alt="image" src="https://github.com/user-attachments/assets/bf21720e-842f-48f8-954c-fd71d0772fb5" />
+
 
 ## 🛠️ Technologies Used
 
